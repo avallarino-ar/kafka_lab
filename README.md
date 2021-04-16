@@ -21,11 +21,7 @@ Apache Kafka examples
 ```bin/kafka-topics.sh --describe --topic <topic_name> --bootstrap-server localhost:9092```   
 
 
-## Reemplazar:  
-+ **<topic_name>**: Nombre del topic.  
-
-+ **<xx>**: cantidad de relpicas.  
-
-**<yy>**: cantidad de particiones.
+# Reemplazar:  
+**<topic_name>**: Nombre del topic, **<x>**: cantidad de relpicas, **<yy>**: cantidad de particiones.
 
 --- 
