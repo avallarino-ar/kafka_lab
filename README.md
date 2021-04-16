@@ -12,7 +12,7 @@ Apache Kafka examples
 ```bin/kafka-server-start.sh config/server.properties```  
 
 + Create a topic  
-```bin/kafka-topics.sh --create --topic '<topic_name>' --bootstrap-server localhost:9092 --replication-factor <x> --partitions <y>```   
+```bin/kafka-topics.sh --create --topic '<topic_name>' --bootstrap-server localhost:9092 --replication-factor X --partitions Y```   
 
 + Topic's list  
 ```bin/kafka-topics.sh --list  --bootstrap-server localhost:9092```  
@@ -22,6 +22,8 @@ Apache Kafka examples
 
 
 # Reemplazar:  
-**<topic_name>**: Nombre del topic, **<x>**: cantidad de relpicas, **<yy>**: cantidad de particiones.
+**<topic_name>**: Nombre del topic.  
+**X**: cantidad de relpicas.  
+**Y**: cantidad de particiones.  
 
 --- 
