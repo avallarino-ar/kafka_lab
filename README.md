@@ -1,5 +1,5 @@
 # Apache Kafka 
-Apache Kafka -Examples
+Apache Kafka - Examples
 
 ---  
 
