@@ -22,8 +22,8 @@ Apache Kafka examples
 
 
 > reemplazar:  
-> **<topic_name>**: Nombre del topic.  
-> **<xx>**: cantidad de relpicas.  
+> **<topic_name>**: Nombre del topic.
+> **<xx>**: cantidad de relpicas.
 > **<yy>**: cantidad de particiones.
 
 --- 
