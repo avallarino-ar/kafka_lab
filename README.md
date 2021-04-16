@@ -1,9 +1,9 @@
 # Apache Kafka 
 Apache Kafka examples
 
---- 
+---  
 
-## cheat sheet  
+## cheat sheet
 
 + Start the ZooKeeper service
 bin/zookeeper-server-start.sh config/zookeeper.properties  
