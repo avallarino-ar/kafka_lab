@@ -8,7 +8,7 @@
 + Cosumer: obtiene los datos los _topic_ y los imprime
 
 
-# Servicios: ZooKeper + Kafka:
+# Servicios: ZooKeeper + Kafka:
 ![](img/servicios.png)
 
 
